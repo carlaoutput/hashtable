@@ -1,6 +1,6 @@
 /*//////////////////////////////////////////////////////////////////////////////
 
-Carla Pastor - FSU ID: cpp15d 
+Carla Pastor
 COP4530. Project 5: Hash Tables and Its Applications        
 
 Task 1: HashTable Class Template
